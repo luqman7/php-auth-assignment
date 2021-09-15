@@ -1,4 +1,4 @@
-# Kiddocare Assignment
+# Corrad Assignment
 
 Thank you for applying to our PHP Developer position at Corrad. For our selection process, we would require that you complete this assignment and submit it to us based on allocated time for you by the moderator.
 
