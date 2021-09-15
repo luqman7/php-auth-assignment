@@ -1,6 +1,6 @@
 # Kiddocare Assignment
 
-Thank you for applying to our PHP Developer position at Kiddocare. For our selection process, we would require that you complete this assignment and submit it to us before 5pm, 11th September 2021, Kuala Lumpur time.
+Thank you for applying to our PHP Developer position at Corrad. For our selection process, we would require that you complete this assignment and submit it to us based on allocated time for you by the moderator.
 
 Please read the instructions carefully.
 
@@ -65,8 +65,8 @@ Continuing from **Assignment 1**, the secure page is to be developed into a dash
 
 To submit your assignment, please following the instructions below :
 
-1. Create a new public Github project
+1. Fork this repository to your own Github account. After that, clone to your local machine to start working.
 2. Push all your work to your new Github project using the `main` branch
-3. Send an email to iszuddin@kiddocare.my with subject line **Kiddocare PHP Developer Assignment Submission**
-4. Provide the link to your Github project in the email
-5. Your email must arrive in our Inbox before 5:00 pm, 11th September 2021, Kuala Lumpur time.
+3. Send an email to iszuddin@kiddocare.my with subject line **Corrad PHP Developer Assignment Submission**
+4. Provide the link to your forked Github project in the email.
+5. Your email must arrive in our Inbox before deadline allocated by the moderator.
