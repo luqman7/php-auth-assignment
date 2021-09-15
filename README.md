@@ -67,6 +67,6 @@ To submit your assignment, please following the instructions below :
 
 1. Fork this repository to your own Github account. After that, clone to your local machine to start working.
 2. Push all your work to your new Github project using the `main` branch
-3. Send an email to iszuddin@kiddocare.my with subject line **Corrad PHP Developer Assignment Submission**
+3. Send an email to <mohd.fairuz@corrad.my> with subject line **Corrad PHP Developer Assignment Submission**
 4. Provide the link to your forked Github project in the email.
 5. Your email must arrive in our Inbox before deadline allocated by the moderator.
